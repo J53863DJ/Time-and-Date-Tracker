@@ -18,6 +18,7 @@ Choose one that best suits your country!
 # Time Formats
 Choose one of these time formats!
 <img width="903" height="382" alt="Screenshot 2026-01-16 223248" src="https://github.com/user-attachments/assets/08ea0e88-f140-40ea-bb95-8795e87aaf60" />
+
 <img width="932" height="387" alt="Screenshot 2026-01-16 223258" src="https://github.com/user-attachments/assets/83f3da1f-8025-4dfb-b847-4740bcb3e7c9" />
 
 Choose one that makes you understand what the time is!
